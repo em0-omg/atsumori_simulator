@@ -7,3 +7,13 @@
 - src
 
 csv ファイルの作成に使用したソースコードがあります。メインではないし動けばいいやの精神で作ったので大分冗長です・・・
+
+- 参考
+
+あつまれどうぶつの森解析コード
+
+> https://gist.github.com/Treeki/85be14d297c80c8b3c0a76375743325b
+
+株価変動ロジック解説
+
+> https://hyperts.net/acnh-algorithm/
